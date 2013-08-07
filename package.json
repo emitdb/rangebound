@@ -1,0 +1,28 @@
+{
+  "name": "rangebound",
+  "version": "0.0.0",
+  "description": "given a number or a string, returns the ranges you should be querying in the default js string collation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dscape/rangebound.git"
+  },
+  "keywords": [
+    "range",
+    "number",
+    "string",
+    "query",
+    "collation",
+    "bound",
+    "upper",
+    "lower"
+  ],
+  "author": "nuno job (nunojobpinto@gmail.com)",
+  "license": "apache2",
+  "bugs": {
+    "url": "https://github.com/dscape/rangebound/issues"
+  }
+}
